@@ -269,7 +269,7 @@
       "meta": {
         "avatar_id": 13770,
         "cost": 692,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": null
         },
@@ -285,7 +285,7 @@
       "meta": {
         "avatar_id": 13772,
         "cost": 692,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": null
         },
@@ -301,7 +301,7 @@
       "meta": {
         "avatar_id": 13774,
         "cost": 693,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": null
         },
@@ -317,7 +317,7 @@
       "meta": {
         "avatar_id": 13773,
         "cost": 693,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": null
         },
@@ -333,7 +333,7 @@
       "meta": {
         "avatar_id": 13776,
         "cost": 694,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": null
         },
@@ -349,7 +349,7 @@
       "meta": {
         "avatar_id": 14345,
         "cost": 100,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": "Undersea World"
         },
@@ -365,7 +365,7 @@
       "meta": {
         "avatar_id": 14346,
         "cost": 100,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": null
         },
@@ -381,7 +381,7 @@
       "meta": {
         "avatar_id": 14347,
         "cost": 100,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": null
         },
@@ -397,7 +397,7 @@
       "meta": {
         "avatar_id": 14492,
         "cost": 710,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": null
         },
@@ -413,7 +413,7 @@
       "meta": {
         "avatar_id": 14490,
         "cost": 710,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": null
         },
@@ -429,7 +429,7 @@
       "meta": {
         "avatar_id": 14491,
         "cost": 710,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": null
         },
@@ -445,7 +445,7 @@
       "meta": {
         "avatar_id": 14493,
         "cost": 711,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": null
         },
@@ -461,7 +461,7 @@
       "meta": {
         "avatar_id": 20779,
         "cost": 100,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": "Love Story"
         },
@@ -477,7 +477,7 @@
       "meta": {
         "avatar_id": 20810,
         "cost": 100,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": "Love Story"
         },
@@ -493,7 +493,7 @@
       "meta": {
         "avatar_id": 21619,
         "cost": 100,
-        "type": "basic",
+        "type": "special",
         "localization": {
           "title": "Love Story"
         },
