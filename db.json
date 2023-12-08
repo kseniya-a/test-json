@@ -5,499 +5,395 @@
   ],
   "content": [
     {
+      "avatar_id": 60,
+      "order": 0,
       "res": "64130aa40ba79",
       "crc": [
         2766028220,
         2084998195
       ],
-      "version": 0,
-      "meta": {
-        "avatar_id": 60,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {
-          "dc_month": "1",
-          "dc_year": "2023"
-        }
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 62,
+      "order": 1,
       "res": "63d22ab5f3ea0",
       "crc": [
         2296639638,
         3838750206
       ],
-      "version": 0,
-      "meta": {
-        "avatar_id": 62,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {
-          "dc_month": "12",
-          "dc_year": "2022"
-        }
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 64,
+      "order": 2,
       "res": "63d22ad67f66c",
       "crc": [
         495774126,
         2333105138
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 64,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {
-          "dc_month": "11",
-          "dc_year": "2022"
-        }
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 68,
+      "order": 3,
       "res": "63d22b1a4776f",
       "crc": [
         3994875316,
         1055506690
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 68,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {
-          "dc_month": "9",
-          "dc_year": "2022"
-        }
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 202,
+      "order": 4,
       "res": "63d12ab5491f5",
       "crc": [
         2245233775
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 202,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 6685,
+      "order": 5,
       "res": "641d7fce50dcf",
       "crc": [
         1769482384
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 6685,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 6723,
+      "order": 6,
       "res": "641ac72a82fb7",
       "crc": [
         471746768
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 6723,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": "World of Games"
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 7849,
+      "order": 7,
       "res": "646f472d6516b",
       "crc": [
         2299872981
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 7849,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": "Love Story"
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 8103,
+      "order": 8,
       "res": "646f5fadb22ea",
       "crc": [
         655667820
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 8103,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": "Movie Time"
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 8112,
+      "order": 9,
       "res": "646f69c04dc46",
       "crc": [
         655667820
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 8112,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": "Love Story"
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 13083,
+      "order": 10,
       "res": "6478a19e944d8",
       "crc": [
         3136991062
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 13083,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": "Independence Day"
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 13084,
+      "order": 11,
       "res": "6478a19e1c849",
       "crc": [
         1780891537
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 13084,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": "Independence Day"
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 13085,
+      "order": 12,
       "res": "6478a19d9c41f",
       "crc": [
         3055176176
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 13085,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": "Independence Day"
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 13260,
+      "order": 13,
       "res": "64a55f078e9b6",
       "crc": [
         1342711056
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 13260,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": "Undersea World"
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 13261,
+      "order": 14,
       "res": "64a55f2d6e14d",
       "crc": [
         1967576165
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 13261,
-        "cost": 100,
-        "type": "basic",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 13770,
+      "order": 15,
       "res": "64ba36639f3e1",
       "crc": [
         1439458817
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 13770,
-        "cost": 692,
-        "type": "special",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 13772,
+      "order": 16,
       "res": "64ba36ad927d3",
       "crc": [
         1621336536
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 13772,
-        "cost": 692,
-        "type": "special",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 13774,
+      "order": 17,
       "res": "64ba368686053",
       "crc": [
         3689570396
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 13774,
-        "cost": 693,
-        "type": "special",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 13773,
+      "order": 18,
       "res": "64ba36639f3e1",
       "crc": [
         1439458817
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 13773,
-        "cost": 693,
-        "type": "special",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 13776,
+      "order": 19,
       "res": "64ba36639f3e1",
       "crc": [
         1439458817
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 13776,
-        "cost": 694,
-        "type": "special",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 14345,
+      "order": 20,
       "res": "64c770bfd7f6f",
       "crc": [
         1342711056
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 14345,
-        "cost": 100,
-        "type": "special",
-        "localization": {
-          "title": "Undersea World"
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 14346,
+      "order": 21,
       "res": "64c770e423f0c",
       "crc": [
         1967576165
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 14346,
-        "cost": 100,
-        "type": "special",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 14347,
+      "order": 22,
       "res": "64c770f8dcc60",
       "crc": [
         343274453
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 14347,
-        "cost": 100,
-        "type": "special",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 14492,
+      "order": 23,
       "res": "64ba36ad927d3",
       "crc": [
         1621336536
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 14492,
-        "cost": 710,
-        "type": "special",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 14490,
+      "order": 24,
       "res": "64ba36639f3e1",
       "crc": [
         1439458817
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 14490,
-        "cost": 710,
-        "type": "special",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 14491,
+      "order": 25,
       "res": "64ba368686053",
       "crc": [
         3689570396
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 14491,
-        "cost": 710,
-        "type": "special",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 14493,
+      "order": 26,
       "res": "64ba36639f3e1",
       "crc": [
         1439458817
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 14493,
-        "cost": 711,
-        "type": "special",
-        "localization": {
-          "title": null
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 20779,
+      "order": 27,
       "res": "6538f165b2bb5",
       "crc": [
         3317378030
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 20779,
-        "cost": 100,
-        "type": "special",
-        "localization": {
-          "title": "Love Story"
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 20810,
+      "order": 28,
       "res": "6538f165b2bb5",
       "crc": [
         3317378030
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 20810,
-        "cost": 100,
-        "type": "special",
-        "localization": {
-          "title": "Love Story"
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     },
     {
+      "avatar_id": 21619,
+      "order": 29,
       "res": "6538f165b2bb5",
       "crc": [
         3317378030
       ],
       "version": 0,
-      "meta": {
-        "avatar_id": 21619,
-        "cost": 100,
-        "type": "special",
-        "localization": {
-          "title": "Love Story"
-        },
-        "uiParams": {}
+      "rules": {
+        "0": 100,
+        "1": 200
       }
     }
   ]
