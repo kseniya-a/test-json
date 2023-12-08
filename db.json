@@ -3,7 +3,7 @@
     "https://s3-ca-awards-test.easybrain.com/v1/0/",
     "https://s3.ca-central-1.amazonaws.com/s3-ca-awards-test.easybrain.com/v1/0/"
   ],
-  "content": [
+  "basic": [
     {
       "avatar_id": 60,
       "order": 0,
