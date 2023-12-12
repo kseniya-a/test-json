@@ -4,7 +4,7 @@
       "https://s3-ca-awards-test.easybrain.com/v1/0/",
       "https://s3.ca-central-1.amazonaws.com/s3-ca-awards-test.easybrain.com/v1/0/"
     ],
-    "special": [
+    "basic": [
       {
         "avatar_id": 60,
         "order": 0,
@@ -209,136 +209,124 @@
       "https://s3-ca-awards-test.easybrain.com/v1/0/",
       "https://s3.ca-central-1.amazonaws.com/s3-ca-awards-test.easybrain.com/v1/0/"
     ],
-    "basic": [
+    "special": [
       {
-        "avatar_id": 60,
-        "res": "64130aa40ba79",
+        "avatar_id": 13770,
+        "res": "64ba36639f3e1",
         "crc": [
-          2766028220,
-          2084998195
-        ]
-      },
-      {
-        "avatar_id": 62,
-        "res": "63d22ab5f3ea0",
-        "crc": [
-          2296639638,
-          3838750206
-        ]
-      },
-      {
-        "avatar_id": 64,
-        "res": "63d22ad67f66c",
-        "crc": [
-          495774126,
-          2333105138
+          1439458817
         ],
         "version": 0
       },
       {
-        "avatar_id": 68,
-        "order": 3,
-        "res": "63d22b1a4776f",
+        "avatar_id": 13772,
+        "res": "64ba36ad927d3",
         "crc": [
-          3994875316,
-          1055506690
-        ],
-        "version": 0,
-        "rules": {
-          "0": 100,
-          "1": 200
-        }
-      },
-      {
-        "avatar_id": 202,
-        "res": "63d12ab5491f5",
-        "crc": [
-          2245233775
+          1621336536
         ],
         "version": 0
       },
       {
-        "avatar_id": 6685,
-        "res": "641d7fce50dcf",
+        "avatar_id": 13774,
+        "res": "64ba368686053",
         "crc": [
-          1769482384
+          3689570396
         ],
         "version": 0
       },
       {
-        "avatar_id": 6723,
-        "order": 6,
-        "res": "641ac72a82fb7",
+        "avatar_id": 13773,
+        "res": "64ba36639f3e1",
         "crc": [
-          471746768
-        ],
-        "version": 0,
-        "rules": {
-          "0": 100,
-          "1": 200
-        }
-      },
-      {
-        "avatar_id": 7849,
-        "res": "646f472d6516b",
-        "crc": [
-          2299872981
+          1439458817
         ],
         "version": 0
       },
       {
-        "avatar_id": 8103,
-        "res": "646f5fadb22ea",
+        "avatar_id": 13776,
+        "res": "64ba36639f3e1",
         "crc": [
-          655667820
+          1439458817
         ],
         "version": 0
       },
       {
-        "avatar_id": 8112,
-        "res": "646f69c04dc46",
-        "crc": [
-          655667820
-        ],
-        "version": 0
-      },
-      {
-        "avatar_id": 13083,
-        "res": "6478a19e944d8",
-        "crc": [
-          3136991062
-        ],
-        "version": 0
-      },
-      {
-        "avatar_id": 13084,
-        "res": "6478a19e1c849",
-        "crc": [
-          1780891537
-        ],
-        "version": 0
-      },
-      {
-        "avatar_id": 13085,
-        "res": "6478a19d9c41f",
-        "crc": [
-          3055176176
-        ],
-        "version": 0
-      },
-      {
-        "avatar_id": 13260,
-        "res": "64a55f078e9b6",
+        "avatar_id": 14345,
+        "res": "64c770bfd7f6f",
         "crc": [
           1342711056
         ],
         "version": 0
       },
       {
-        "avatar_id": 13261,
-        "res": "64a55f2d6e14d",
+        "avatar_id": 14346,
+        "res": "64c770e423f0c",
         "crc": [
           1967576165
+        ],
+        "version": 0
+      },
+      {
+        "avatar_id": 14347,
+        "res": "64c770f8dcc60",
+        "crc": [
+          343274453
+        ],
+        "version": 0
+      },
+      {
+        "avatar_id": 14492,
+        "res": "64ba36ad927d3",
+        "crc": [
+          1621336536
+        ],
+        "version": 0
+      },
+      {
+        "avatar_id": 14490,
+        "res": "64ba36639f3e1",
+        "crc": [
+          1439458817
+        ],
+        "version": 0
+      },
+      {
+        "avatar_id": 14491,
+        "res": "64ba368686053",
+        "crc": [
+          3689570396
+        ],
+        "version": 0
+      },
+      {
+        "avatar_id": 14493,
+        "res": "64ba36639f3e1",
+        "crc": [
+          1439458817
+        ],
+        "version": 0
+      },
+      {
+        "avatar_id": 20779,
+        "res": "6538f165b2bb5",
+        "crc": [
+          3317378030
+        ],
+        "version": 0
+      },
+      {
+        "avatar_id": 20810,
+        "res": "6538f165b2bb5",
+        "crc": [
+          3317378030
+        ],
+        "version": 0
+      },
+      {
+        "avatar_id": 21619,
+        "res": "6538f165b2bb5",
+        "crc": [
+          3317378030
         ],
         "version": 0
       }
