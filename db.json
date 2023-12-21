@@ -181,7 +181,7 @@
         "res": "64ba36639f3e1",
         "crc": 1439458817,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       },
@@ -190,7 +190,7 @@
         "res": "64ba36ad927d3",
         "crc": 1621336536,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       },
@@ -199,7 +199,7 @@
         "res": "64ba368686053",
         "crc": 3689570396,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       },
@@ -208,7 +208,7 @@
         "res": "64ba36639f3e1",
         "crc": 1439458817,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       },
@@ -217,7 +217,7 @@
         "res": "64ba36639f3e1",
         "crc": 1439458817,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       },
@@ -226,7 +226,7 @@
         "res": "64c770bfd7f6f",
         "crc": 1342711056,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       },
@@ -235,7 +235,7 @@
         "res": "64c770e423f0c",
         "crc": 1967576165,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       },
@@ -244,7 +244,7 @@
         "res": "64c770f8dcc60",
         "crc": 343274453,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       },
@@ -253,7 +253,7 @@
         "res": "64ba36ad927d3",
         "crc": 1621336536,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       },
@@ -262,7 +262,7 @@
         "res": "64ba36639f3e1",
         "crc": 1439458817,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       },
@@ -271,7 +271,7 @@
         "res": "64ba368686053",
         "crc": 3689570396,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       },
@@ -280,7 +280,7 @@
         "res": "64ba36639f3e1",
         "crc": 1439458817,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       },
@@ -289,7 +289,7 @@
         "res": "6538f165b2bb5",
         "crc": 3317378030,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       },
@@ -298,7 +298,7 @@
         "res": "6538f165b2bb5",
         "crc": 3317378030,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       },
@@ -307,7 +307,7 @@
         "res": "6538f165b2bb5",
         "crc": 3317378030,
         "version": 0,
-        "rules": {
+        "localization": {
           "title": "Avatar"
         }
       }
